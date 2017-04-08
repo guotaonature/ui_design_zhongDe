@@ -1,3 +1,3 @@
 # ui_design_zhongDe
 
-I can do graphic design TOO...
+UI design for a bank website.
